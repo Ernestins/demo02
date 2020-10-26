@@ -1,0 +1,39 @@
+### Tag 1
+
+-- gestichen:
+-- GitLab Prometheus Config
+-- GitLab Prometheus Working
+-- GitLab Pages
+
+cugG3WuNVf8zBQm
+
+
+
+Einführung in GitLab: Benutzer, Rollen, Projekte
+• Praktisches Arbeiten in Git-Workflows incl. Merge Requests
+• Das Ticket-Management
+• Boards
+• Graphs
+• Web IDE
+• Migration von SVN oder bestehenden Git-Umgebungen
+
+Administration von GitLab: Benutzer, Rollen, Projekte
+• Monitoring-Checks ((ggf. Prometheus))
+• GitLab Management und Administration, Anpassung (Logo, Themes)
+(Ggf. Vorbereitung auf Devops in GitLab: Docker)
+
+
+### Tag 2
+
+Git Grundlagen
+• Einführung in Git und Unterschiede zu SVN, CVS
+• Shell- und GUI-Clients
+• Die drei Git-Zustände: modified, staged und committed
+• Verbindung von lokalen und remote Repositories, im speziellen GitLab
+• Erweitertes Git: Squash, Rebase, Cherry-Pick, Stash
+
+Devops in GitLab: Gitlab-Runner / Docker
+• Continuous Integration / Deployment / Delivery (CI / CD) mit GitLab
+• Spezielle Themen: Webhooks, Pipelines, eigene Container-Registries
+• Die GitLab API
+• Git Best Practices
